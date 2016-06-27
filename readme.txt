@@ -5,3 +5,5 @@ creating a new branch is quick and simple.
 creating a new branch is quick AND simple.
 >>>>>>> feature1
 what a fuck
+jk is a boy
+you are my best one.
